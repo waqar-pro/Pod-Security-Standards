@@ -1,4 +1,4 @@
-# Pod Security Standards - Kubernetes Lab
+# Pod Security Standards - Kubernetes 
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-Hardening-red?style=for-the-badge)
@@ -6,7 +6,7 @@
 
 ## Overview
 
-This lab demonstrates how to implement and enforce **Pod Security Standards (PSS)** in Kubernetes. Pod Security Standards define different isolation levels for Pods to restrict what they can do at the namespace level.
+This work demonstrates how to implement and enforce **Pod Security Standards (PSS)** in Kubernetes. Pod Security Standards define different isolation levels for Pods to restrict what they can do at the namespace level.
 
 ---
 
